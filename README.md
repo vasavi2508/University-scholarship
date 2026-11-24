@@ -174,8 +174,8 @@ University-Scholarship-Allocation/
 
 ## Author Details
 
-- **Name:** Your Name
-- **Roll Number:** Your Roll Number
-- **Branch:** Your Branch
-- **Section:** Your Section
-- **Project:** Python Activity-Based Learning
+- **Name:** v.v.s.s.gayathri
+- **Roll Number:**N26V01A0388
+- **Branch:** CSE
+- **Section:** Section-5
+- **Project:** University scholarship 
